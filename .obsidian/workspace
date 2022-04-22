@@ -24,9 +24,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba6233bb3ae58bd6",
+        "id": "27bf77c372d38b40",
         "type": "tabs",
         "children": [
+          {
+            "id": "5ba43e29fa5f5166",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
           {
             "id": "c7c843800043574a",
             "type": "leaf",
@@ -34,7 +42,14 @@
               "type": "file-explorer",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ba6233bb3ae58bd6",
+        "type": "tabs",
+        "children": [
           {
             "id": "55729c599bada8c1",
             "type": "leaf",
@@ -49,14 +64,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "5ba43e29fa5f5166",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
@@ -69,23 +76,20 @@
     "type": "split",
     "children": [
       {
-        "id": "407601a1e69a245b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "13362c098ab1215b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "7512749daccf1703",
         "type": "tabs",
         "children": [
+          {
+            "id": "2f79b802ee41bd14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "6f8ac3417299d8cb",
             "type": "leaf",
@@ -114,18 +118,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "2f79b802ee41bd14",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cf5dadebdcf8ed18",
+        "type": "tabs",
+        "children": [
           {
             "id": "37212af9f1a0d597",
             "type": "leaf",
@@ -136,8 +136,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
