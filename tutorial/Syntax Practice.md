@@ -6,7 +6,7 @@ You can insert a link to our test note by typing `[[` and choosing the note call
 
 [[Test note]]
 
-You can use a `|` to modify the text being displayed, e.g. `[[Test note - For syntax|display text]]`.
+You can use a `|` to modify the text being displayed, e.g. `[[Test note|display text]]`.
 After pressing `[[` and choosing a note, you can use <kbd>Tab</kbd> to autocomplete that note and insert the `|` sign more easily
 
 [[Test note|Display text]]
