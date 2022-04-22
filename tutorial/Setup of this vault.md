@@ -20,7 +20,8 @@ I've set up this vault to include some third-party plugins that help with more a
 
 - [outliner](obsidian://show-plugin?id=obsidian-outliner) - better outliner behaviour when using lists
 - [natural language dates](obsidian://show-plugin?id=nldates-obsidian) - creating date-based notes using natural language, e.g. by typing `@today` or `@next friday`
-- [calendar](obsidian://show-plugin?id=calendar) - Nice GUI to open daily notes
+- [calendar](obsidian://show-plugin?id=calendar) - Nice GUI to open daily notes.
+  Note: I've disabled it by default, but you can enable it by clicking on the [calendar](obsidian://show-plugin?id=calendar) link (which sould open the settings) and pressing on the <kbd>Enable</kbd> button.
 - [periodic notes](obsidian://show-plugin?id=periodic-notes) - Better functionality for daily notes and support for more types of date-based notes, e.g. weekly notes for planning if you follow GTD
 - [quick add](obsidian://show-plugin?id=quickadd) - Useful to add slash commands to automate creating notes and applying templates, e.g. `/meeting` 
 	- I've set up one example for the [[Death Star]] project which essentially 
