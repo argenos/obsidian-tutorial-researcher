@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "folder": "logbook",
-    "template": "templates/Daily note template",
+    "template": "templates/logbook/Daily note template.md",
     "enabled": true
   },
   "weekly": {
