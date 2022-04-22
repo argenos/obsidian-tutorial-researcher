@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "id": "d5d4e713-d35f-40f9-8666-e32e29119a22",
+      "name": "Death star meetings",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/quickadd/death star meetings.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VDATE:Meeting date, YYYY-MM-DD}} - Death star project - {{VALUE:Meeting type}} Meeting.md"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "projects/death star/meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "f3c151f04fde0fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f93d3aacc7ff45",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa9595a2239fb2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba6233bb3ae58bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c843800043574a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "55729c599bada8c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba43e29fa5f5166",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "80daf64ea9973862",
+    "type": "split",
+    "children": [
+      {
+        "id": "407601a1e69a245b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13362c098ab1215b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7512749daccf1703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f8ac3417299d8cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e08ded5a02d452af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f79b802ee41bd14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37212af9f1a0d597",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "active": "74f93d3aacc7ff45",
+  "lastOpenFiles": [
+    "README.md",
+    "tutorial/Setup of this vault.md",
+    "tutorial/Obsidian Tutorial for MAS.md",
+    "examples/Open source alternatives.md",
+    "templates/quickadd/death star meetings.md",
+    "templates/projects/T - New project.md",
+    "templates/projects/T - Workpackage template.md",
+    "templates/projects/T - Task.md",
+    "templates/projects/T - Deliverables.md",
+    "examples/Jupyter example.md"
+  ]
+}
